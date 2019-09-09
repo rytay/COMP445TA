@@ -7,5 +7,5 @@
 #
 
 # Compiles the java file and passes the argument to the program
-javac httpc.java && java httpc $*
+javac client/httpc.java && java client.httpc $*
 
