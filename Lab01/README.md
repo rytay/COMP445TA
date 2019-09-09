@@ -1,3 +1,11 @@
+# Assignment
+Build a client side program that partially emulates `curl`.
+
+A few concepts that you'll need to brush up on:
+* HTTP protocol and message format (stick to 1.0)
+* Socket connections
+* Message passing and reading
+
 # Instructions
 
 Have `docker` installed.
