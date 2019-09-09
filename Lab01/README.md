@@ -3,7 +3,7 @@ Build a client side program that partially emulates `curl`.
 
 A few concepts that you'll need to brush up on:
 * HTTP protocol and message format (stick to 1.0)
-* [Socket connections](https://docs.oracle.com/javase/tutorial/networking/sockets/readingWriting.html)
+* [Socket connections](https://docs.oracle.com/javase/tutorial/networking/sockets/index.html)
 * Message passing and reading
 
 # Instructions
