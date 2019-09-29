@@ -31,19 +31,36 @@ The terminal, your new best friend.
 
 Here are some useful commands:
 
-| Command  | Explanation                                   |
-|----------|-----------------------------------------------|
-| `ls`     | List content of directory                     |
-| `pwd`    | Print the name of working directory           |
-| `man`    | Show the manual of a given program            |
-| `cd`     | Change directory (relative or absolute paths) |
-| `mv`     | Move (rename) files                           |
-| `cp`     | Copy files/directories                        |
-| `rm`     | Remove files                                  |
-| `grep`   | Searches for string within files              |
-| `clear`  | Clears the terminal                           |
-| `mkdir`  | Make directory                                |
-| `rmdir1` | Remove directory                              |
-| `uname`  | System information                            |
-| `w`      | Show who is logged on and what they're doing  |
+| Command | Explanation                                   |
+|---------|-----------------------------------------------|
+| `man`   | Show the manual of a given program            |
+| `ls`    | List content of directory                     |
+| `pwd`   | Print the name of working directory           |
+| `cd`    | Change directory (relative or absolute paths) |
+| `mv`    | Move (rename) files                           |
+| `cp`    | Copy files/directories                        |
+| `rm`    | Remove files                                  |
+| `grep`  | Searches for string within files              |
+| `clear` | Clears the terminal                           |
+| `mkdir` | Make directory                                |
+| `rmdir` | Remove directory                              |
+| `uname` | System information                            |
+| `w`     | Show who is logged on and what they're doing  |
+| `touch` | Changing file timestamps                      |
+| `cat`   | Concat files and print output                 |
+| `less`  | Reades files (nav with j(up)-k(down))         |
+
+### Application of New Things
+
+**File Hierarchy in Linux**
+* Learn more with `man file-hierarchy`.
+* What does `/` represent?
+* What is normally found in `bin`?
+* For a given user, *bob*, what would be the path of his home directory?
+
+**Movement in Folders**
+* How do you go up 3 levels in the directory?
+* Create a folder *my first directory* and navigate into it
+* Within it, create the series of directories *a/b/c* and in *c* create a file called *c.txt*
+* Delete everything inside *my first directory*
 
