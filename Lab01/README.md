@@ -6,6 +6,8 @@ A few concepts that you'll need to brush up on:
 * [Socket connections](https://docs.oracle.com/javase/tutorial/networking/sockets/index.html)
 * Message passing and reading
 
+**Do not use `URLConnection` or `HTTPURLConnection` for the assignment**
+
 # Instructions
 
 Have `docker` installed.
