@@ -8,9 +8,10 @@ Your server must respond to _GET_ and _POST_ requests as explained in the handou
 Make sure you limit the behaviour that a client can perform and handle errors.
 
 ## Reminder
-For the networking aspect, you may __only__ use **Socket** and **ServerSocket**. Please carefully read the handout.
+For the networking aspect, you may __only__ use **Socket**, **ServerSocket** and the ones imported at the top of the [sample java file](./httpfs/httpfs.java).
+Please carefully read the handout.
 
-If you use other classes and/or java libraries, you will get a heavy deduction on the assignment.
+If you use other classes and/or higher level java libraries, you will get a heavy deduction on the assignment.
 
 ## Sample Code
 If you look at the httpfs folder, there is a [sample server](./httpfs/httpfs.java) that uses **ServerSocket**.

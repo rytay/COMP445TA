@@ -12,6 +12,12 @@ import java.net.Socket;
 import java.io.PrintWriter;
 import java.io.BufferedReader;
 import java.io.IOException;
+import java.nio.channels.SelectionKey;
+import java.nio.channels.Selector;
+import java.nio.channels.ServerSocketChannel;
+import java.nio.channels.SocketChannel;
+import java.nio.ByteBuffer;
+import java.nio.Files;
 
 
 public class httpfs

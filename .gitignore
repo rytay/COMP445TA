@@ -1,6 +1,9 @@
 # Compiled class file
 *.class
 
+# Vim swap files
+*.swp
+
 # Log file
 *.log
 
