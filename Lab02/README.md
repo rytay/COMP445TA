@@ -13,7 +13,7 @@ For the networking aspect, you may __only__ use **Socket** and **ServerSocket**.
 If you use other classes and/or java libraries, you will get a heavy deduction on the assignment.
 
 ## Sample Code
-If you look at the httpfs folder, there is a sample server that uses **ServerSocket**.
+If you look at the httpfs folder, there is a [sample server](./httpfs/httpfs.java) that uses **ServerSocket**.
 It listents for an client to connect to it and then responds with a fixed string.
 
 If you are to try it from the terminal, I'd suggest opening two windows. One to compile and run the server; and another for the client to connect to it.
