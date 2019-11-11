@@ -22,9 +22,12 @@ It's function is only to mimic an unreliable network.
 To run the router, look in the folder that's associated with your OS and make sure the file is marked as executable for your user.
 
 The files that are there as starting points are:
- * [`Packet.java`](./src/Packet.java)
- * [`UDPServer.java`](./src/UDPServer.java)
- * [`UDPClient.java`](./src/UDPClient.java)
+ * [`Packet.java`](./templates/src/main/java/ca/concordia/Packet.java)
+ * [`UDPServer.java`](./templates/src/main/java/ca/concordia/UDPServer.java)
+ * [`UDPClient.java`](./templates/src/main/java/ca/concordia/UDPClient.java)
+
+#### Running
+View the [README.tx in the templates folder](./templates/REAMDE.txt).
 
 ---
 
