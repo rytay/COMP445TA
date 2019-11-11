@@ -27,7 +27,7 @@ The files that are there as starting points are:
  * [`UDPClient.java`](./templates/src/main/java/ca/concordia/UDPClient.java)
 
 #### Running
-View the [README.tx in the templates folder](./templates/REAMDE.txt).
+View the [README.md in the templates folder](./templates/README.md).
 
 ---
 
