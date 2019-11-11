@@ -27,7 +27,7 @@ The files that are there as starting points are:
  * [`UDPClient.java`](./templates/src/main/java/ca/concordia/UDPClient.java)
 
 #### Running
-View the [README.md in the templates folder](./templates/README.md).
+View the [README.md in the templates folder](./templates/README.md) for the java files and the [REAMDE.md in the router folder](./router/README.md) for the router.
 
 ---
 
